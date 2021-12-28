@@ -45,7 +45,7 @@ public class DataTypes {
         */
         System.out.println("String - Agent Name :: " + agentName);
         System.out.println("byte - Agent Age:: " + agentAge);
-        System.out.println("char - Gender:: " + agentGender);
+        System.out.println("char - Gender:: " + agentGender)
         System.out.println("Short - Miles Travelled:: " + numberofMilesTravelled);
         System.out.println("int - Copies Sold" + numberOfCopieSold);
         System.out.println("long - Num of Words Written:: " + numOfWordsWritten);
